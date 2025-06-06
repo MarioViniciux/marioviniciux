@@ -1,24 +1,33 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=252b2e&height=120&section=header"/>
+<h1 align="center">Hey 👋 What's Up?</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6699cc&size=35&center=true&vCenter=true&width=1000&lines=Hello!,+My+name+is+Mário+Vinicius+Campinas+Souza;19+years+old;Studying+by+myself;Juazeiro,+BA,+Brazil.)](https://git.io/typing-svg)
+###
 
-##
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,ts,docker,c,cpp,css,express,html,js,linux,mysql,nodejs,postgres,postman,prisma,py,react,tailwind,nextjs" />
+  </a>
+</p>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=marioviniciux&show_icons=true&count_private=true&hide_border=true&title_color=6699cc&icon_color=6699cc&text_color=d4d4d4&bg_color=0d1117" alt="Mário Vinicius C. Souza github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marioviniciux&layout=compact&hide_border=true&title_color=6699cc&text_color=00bfbf&bg_color=0d1117" />
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/marioviniciux/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/></a>
+  <a href="https://mail.google.com/mail/?view=cm&to=marioviniciuxcs@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=gmail&logo=gmail&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"/></a>
 </div>
 
-<div align="center">  
-<a href="https://www.linkedin.com/in/mário-vinicius-716342242/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-65A0BC?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-<a href="mailto: marioviniciuxcs@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-e15a60?style=for-the-badge&logo=gmail&logoColor=white"</a>
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
- 
-##
-### Main skills:
-![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-CB5100?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-507D8D?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=252b2e&height=120&section=footer"/>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
+
+###za
