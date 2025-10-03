@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋 What's Up?</h1>
 <h3 align="center">I'm Mário Vinícius</h1>
-<h3 align="center">An aspiring fullstack programmer from Brazil.</h3>
+<h3 align="center">Fullstack programmer from Brazil.</h3>
 
 - 🌱 I’m currently learning **C, Typescript and NextJS.**
 
