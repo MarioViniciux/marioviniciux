@@ -19,10 +19,18 @@
 
 ###
 
-<h3 align="left">Github Stats:</h3>
+<h3 align="left">GitHub Stats:</h3>
 <div align="center">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marioviniciux&show_icons=true&locale=en&layout=compact&theme=dracula&hide_border=false&border_radius=5&order=3" alt="marioviniciux" /></p>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marioviniciux&show_icons=true&locale=en&theme=dracula&hide_border=false&border_radius=5&order=3" alt="marioviniciux" /></p>
+  <table>
+    <tr>
+      <td valign="top">
+        <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=marioviniciux&show_icons=true&theme=vision-glow" />
+      </td>
+      <td valign="top">
+        <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marioviniciux&layout=compact&theme=vision-glow&hide=html,css" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ###
