@@ -2,11 +2,7 @@
 <h3 align="center">I'm Mário Vinícius</h1>
 <h3 align="center">Fullstack programmer from Brazil.</h3>
 
-- 🌱 I’m currently learning **C, Typescript and NextJS.**
-
-- 📫 How to reach me **marioviniciuxcs@gmail.com**
-
-- ⚡ Fun fact **I listen to music all day.**
+- 🌱 I’m currently learning a lot of things, like **Typescript, Python and C.**
 
 ###
 
