@@ -15,22 +15,6 @@
 
 ###
 
-<h3 align="left">GitHub Stats:</h3>
-<div align="center">
-  <table>
-    <tr>
-      <td valign="top">
-        <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=marioviniciux&show_icons=true&theme=vision-glow" />
-      </td>
-      <td valign="top">
-        <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marioviniciux&layout=compact&theme=vision-glow&hide=html,css" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-###
-
 <h3 align="left">Connect with me:</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/marioviniciux/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/></a>
